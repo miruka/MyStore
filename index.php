@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Store</title>
     <link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="fontawesome-free-5.13.0-web/css/fontawesome.min.css">
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="styles/style.css">
 
 </head>
@@ -67,6 +67,19 @@
                         <li> <a href="cart.php">Shopping Cart</a></li>
                         <li> <a href="content.php">Contact Us</a></li>
                     </ul>
+                </div>
+                <a href="cart.php" class="btn navbar-btn btn-primary right">
+                    <i class="fa fa-shopping-cart"></i>
+                    <span>4 items in Your shopping cart</span>
+
+                </a>
+                <div class="navbar-collapse collapse right">
+                    <button class="btn btn-primary navbar-btn" type="button" data-toggle="collapse" data-target="#search">
+
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="fa fa-search"></i>
+
+                    </button>
                 </div>
 
             </div>
