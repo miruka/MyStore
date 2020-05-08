@@ -45,7 +45,7 @@
         <div class="container">
             <div class="navbar-header">
                 <a href="index.php" class="navbar-brand home">
-                    <img src="images/mystore logo.png" alt="mystore logo" width="83px" height="53px">
+                    <img src="images/mystore logo.png" alt="mystore logo" width="83px" height="33px">
                 </a>
 
                 <button class="navbar-toggle" data-toggle="collapse" data-target="#navigation">
@@ -82,7 +82,72 @@
                     </button>
                 </div>
 
+                <div class="collapse clearfix" id="search">
+                    <form action="results.php" method="get" class="navbar">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search" name="user_query" required>
+
+                            <span class="input-group-btn">
+
+                                <button type="submit" name="search" value="search" class="btn btn-primary">
+                                    <i class="fa fa-search"></i>
+                                </button>
+                            </span>
+                        </div>
+                    </form>
+                </div>
+
             </div>
+        </div>
+    </div>
+
+    <div class="container" id="slider">
+        <div class="col-md-12">
+            <div class="carousel slide" id="myCarousel" data-ride="carousel">
+
+                <ol class="carousel-indicators">
+
+                    <li class="active" data-target="#myCarousel" data-slide-to="0"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                    <li data-target="#myCarousel" data-slide-to="3"></li>
+
+                </ol>
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <img src="images/slide_images/slide-1.jpg" alt="Slider Image 1">
+                    </div>
+
+                    <div class="item">
+                        <img src="images/slide_images/slide-2.jpg" alt="Slider Image 2">
+                    </div>
+
+                    <div class="item">
+                        <img src="images/slide_images/slide-3.jpg" alt="Slider Image 3">
+                    </div>
+
+                    <div class="item">
+                        <img src="images/slide_images/slide-4.jpg" alt="Slider Image 4">
+                    </div>
+
+                </div>
+                <a href="#myCarousel" class="left carousel-control" data-slide="prev">
+
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                    <span class="sr-only">Previous</span>
+
+                </a>
+
+                <a href="#myCarousel" class="right carousel-control" data-slide="next">
+
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                    <span class="sr-only">Next</span>
+
+                </a>
+
+            </div>
+
+
         </div>
     </div>
 

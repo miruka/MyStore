@@ -29,13 +29,13 @@ body {
     text-transform: uppercase;
 }
 
-@media(max-width: 991px) {
+@media (max-width: 991px) {
     #top .offer {
         margin-bottom: 10px;
     }
 }
 
-@media(max-width: 991px) {
+@media (max-width: 991px) {
     #top {
         font-size: 12px;
         text-align: center;
@@ -54,7 +54,7 @@ body {
     list-style: none;
 }
 
-@media(max-width: 991px) {
+@media (max-width: 991px) {
     #top ul.menu {
         text-align: center;
     }
@@ -64,7 +64,7 @@ body {
     display: inline-block;
 }
 
-#top ul.menu a>li {
+#top ul.menu>li a {
     color: #eeeeee;
 }
 
@@ -72,4 +72,65 @@ body {
     content: "|\00a0";
     color: #f7f7f7;
     padding: 0 5px;
+}
+
+/* Header Styles */
+.navbar {
+    background: #ffffff;
+}
+
+.navbar-collapse .right {
+    float: right;
+}
+
+.navbar-brand {
+    float: left;
+    padding: 10px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    height: 70px;
+}
+
+.navbar-brand:hover,
+.navbar-brand:focus {
+    text-decoration: none;
+}
+
+.navbar ul.nav>li>a {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.navbar ul.nav>li>a:hover {
+    background: #e7e7e7;
+}
+
+.padding-nav {
+    padding-top: 10px;
+}
+
+.btn-primary {
+    color: rgb(255, 255, 255);
+    background: rgb(79, 191, 168);
+    border-color: rgb(65, 179, 156);
+}
+
+#search .navbar-form {
+    float: right;
+}
+
+#search {
+    clear: both;
+    border-top: solid 1px #9adacd;
+    text-align: right;
+
+}
+
+#search .navbar-form .input-group {
+    display: table;
+}
+
+#search .navbar-form .input-group .form-control {
+    width: 100%;
 }
