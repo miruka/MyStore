@@ -19,6 +19,7 @@
                 <a href="#" class="btn btn-success btn-sm">Welcome</a>
                 <a href="checkout.php">4 Items in your cart | Total Price: Ksh 3000 </a>
             </div>
+
             <div class="col-md-6">
                 <ul class="menu">
                     <li>
@@ -36,8 +37,6 @@
                 </ul>
 
             </div>
-
-
 
         </div>
     </div><!-- Top Finish -->
@@ -150,8 +149,66 @@
 
         </div>
     </div>
+    <!-- Advantages Start-->
+    <div id="advantages">
+
+        <div class="container">
+            <div class="same-height-row">
+
+                <div class="col-sm-4">
+
+                    <div class="box same-height">
+
+                        <div class="icon">
+                            <i class="fa fa-heart"></i>
+                        </div>
+
+                        <h3><a href="#">BEST OFFERS</a></h3>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Snt voluptas totam reiciendis.
+                            Aliquid natus maxime quidem amet maiores ipsam neque odio non officiis sequi pariatur,
+                            ipsa adipisci possimus cum consequatur.</p>
+
+                    </div>
+                </div>
+                <div class="col-sm-4">
+
+                    <div class="box same-height">
+
+                        <div class="icon">
+                            <i class="fa fa-tag"></i>
+                        </div>
+
+                        <h3><a href="#">Best Prices</a></h3>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad commodi similique aperiam
+                            mollitia nihil magni, nostrum consequuntur velit accusamus voluptatibus quos, repellendus modi obcaecati debitis.
+                            Facilis perferendis dolore consequatur voluptatem.</p>
+
+                    </div>
+
+                </div>
+                <div class="col-sm-4">
+
+                    <div class="box same-height">
+
+                        <div class="icon">
+                            <i class="fa fa-thumbs-up"></i>
+                        </div>
+
+                        <h3><a href="#">100% Original</a></h3>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                            Architecto numquam rerum, molestias eaque nam qui saepe delectus mollitia libero error,
+                            quae consectetur, unde reiciendis nesciunt expedita. Soluta expedita minima excepturi.</p>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
 
 
+    </div>
+    <!--Advantages FinisH -->
     <script src="bootstrap-3.3.7-dist/js/jquery-3.3.1.min.js"></script>
     <script src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
 </body>
