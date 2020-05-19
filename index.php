@@ -405,6 +405,10 @@
 
         </div>
     </div>
+
+    <?php
+    include 'includes/footer.php';
+    ?>
     <script src="bootstrap-3.3.7-dist/js/jquery-3.3.1.min.js"></script>
     <script src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
 </body>
