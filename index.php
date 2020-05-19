@@ -209,6 +209,202 @@
 
     </div>
     <!--Advantages FinisH -->
+
+    <div id="hot">
+        <div class="box">
+            <div class="container">
+                <div class="col-md-12">
+
+                    <h2>Our Latest Products</h2>
+                </div>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+    <div id="content" class="container">
+        <div class="row">
+
+            <div class="col-md-4 col-sm-6 single">
+                <div class="product">
+                    <a href="details.php">
+                        <img class="img-responsive" src="images/product_images/dress1.jpg" alt="">
+                    </a>
+                    <div class="text">
+                        <h3>
+                            <a href="details.php">
+                                My-Store Dress
+                            </a>
+                        </h3>
+                        <p class="price">Ksh3000</p>
+                        <p class="button">
+                            <a href="details.php" class="btn btn-default">View Details</a>
+                            <a href="details.php" class="btn btn-primary">
+                                <f class="fa fa-shopping-cart">Add to Cart</f>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 single">
+                <div class="product">
+                    <a href="details.php">
+                        <img class="img-responsive" src="images/product_images/dress2.jpg" alt="">
+                    </a>
+                    <div class="text">
+                        <h3>
+                            <a href="details.php">
+                                My-Store Dress
+                            </a>
+                        </h3>
+                        <p class="price">Ksh3000</p>
+                        <p class="button">
+                            <a href="details.php" class="btn btn-default">View Details</a>
+                            <a href="details.php" class="btn btn-primary">
+                                <f class="fa fa-shopping-cart">Add to Cart</f>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 single">
+                <div class="product">
+                    <a href="details.php">
+                        <img class="img-responsive" src="images/product_images/dress3.jpg" alt="">
+                    </a>
+                    <div class="text">
+                        <h3>
+                            <a href="details.php">
+                                My-Store Dress
+                            </a>
+                        </h3>
+                        <p class="price">Ksh3000</p>
+                        <p class="button">
+                            <a href="details.php" class="btn btn-default">View Details</a>
+                            <a href="details.php" class="btn btn-primary">
+                                <f class="fa fa-shopping-cart">Add to Cart</f>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 single">
+                <div class="product">
+                    <a href="details.php">
+                        <img class="img-responsive" src="images/product_images/dress3.jpg" alt="">
+                    </a>
+                    <div class="text">
+                        <h3>
+                            <a href="details.php">
+                                My-Store Dress
+                            </a>
+                        </h3>
+                        <p class="price">Ksh3000</p>
+                        <p class="button">
+                            <a href="details.php" class="btn btn-default">View Details</a>
+                            <a href="details.php" class="btn btn-primary">
+                                <f class="fa fa-shopping-cart">Add to Cart</f>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 single">
+                <div class="product">
+                    <a href="details.php">
+                        <img class="img-responsive" src="images/product_images/dress1.jpg" alt="">
+                    </a>
+                    <div class="text">
+                        <h3>
+                            <a href="details.php">
+                                My-Store Dress
+                            </a>
+                        </h3>
+                        <p class="price">Ksh3000</p>
+                        <p class="button">
+                            <a href="details.php" class="btn btn-default">View Details</a>
+                            <a href="details.php" class="btn btn-primary">
+                                <f class="fa fa-shopping-cart">Add to Cart</f>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 single">
+                <div class="product">
+                    <a href="details.php">
+                        <img class="img-responsive" src="images/product_images/dress2.jpg" alt="">
+                    </a>
+                    <div class="text">
+                        <h3>
+                            <a href="details.php">
+                                My-Store Dress
+                            </a>
+                        </h3>
+                        <p class="price">Ksh3000</p>
+                        <p class="button">
+                            <a href="details.php" class="btn btn-default">View Details</a>
+                            <a href="details.php" class="btn btn-primary">
+                                <f class="fa fa-shopping-cart">Add to Cart</f>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 single">
+                <div class="product">
+                    <a href="details.php">
+                        <img class="img-responsive" src="images/product_images/dress3.jpg" alt="">
+                    </a>
+                    <div class="text">
+                        <h3>
+                            <a href="details.php">
+                                My-Store Dress
+                            </a>
+                        </h3>
+                        <p class="price">Ksh3000</p>
+                        <p class="button">
+                            <a href="details.php" class="btn btn-default">View Details</a>
+                            <a href="details.php" class="btn btn-primary">
+                                <f class="fa fa-shopping-cart">Add to Cart</f>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 single">
+                <div class="product">
+                    <a href="details.php">
+                        <img class="img-responsive" src="images/product_images/dress3.jpg" alt="">
+                    </a>
+                    <div class="text">
+                        <h3>
+                            <a href="details.php">
+                                My-Store Dress
+                            </a>
+                        </h3>
+                        <p class="price">Ksh3000</p>
+                        <p class="button">
+                            <a href="details.php" class="btn btn-default">View Details</a>
+                            <a href="details.php" class="btn btn-primary">
+                                <f class="fa fa-shopping-cart">Add to Cart</f>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
     <script src="bootstrap-3.3.7-dist/js/jquery-3.3.1.min.js"></script>
     <script src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
 </body>
