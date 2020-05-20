@@ -405,6 +405,17 @@
 
         </div>
     </div>
+    <div id="content">
+        <div class="container">
+            <div class="col-md-12">
+                <ul class="breadcrumb">
+                    <li><a href="index.php">Home</a></li>
+                    <li>Shop</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
 
     <?php
     include 'includes/footer.php';
