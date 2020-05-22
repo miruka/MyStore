@@ -243,7 +243,7 @@
                         <p class="button">
                             <a href="details.php" class="btn btn-default">View Details</a>
                             <a href="details.php" class="btn btn-primary">
-                                <f class="fa fa-shopping-cart">Add to Cart</f>
+                                <f class="fa fa-shopping-cart"> Add to Cart</f>
                             </a>
                         </p>
                     </div>
@@ -265,7 +265,7 @@
                         <p class="button">
                             <a href="details.php" class="btn btn-default">View Details</a>
                             <a href="details.php" class="btn btn-primary">
-                                <f class="fa fa-shopping-cart">Add to Cart</f>
+                                <f class="fa fa-shopping-cart"> Add to Cart</f>
                             </a>
                         </p>
                     </div>
@@ -287,7 +287,7 @@
                         <p class="button">
                             <a href="details.php" class="btn btn-default">View Details</a>
                             <a href="details.php" class="btn btn-primary">
-                                <f class="fa fa-shopping-cart">Add to Cart</f>
+                                <f class="fa fa-shopping-cart"> Add to Cart</f>
                             </a>
                         </p>
                     </div>
@@ -308,7 +308,7 @@
                         <p class="button">
                             <a href="details.php" class="btn btn-default">View Details</a>
                             <a href="details.php" class="btn btn-primary">
-                                <f class="fa fa-shopping-cart">Add to Cart</f>
+                                <f class="fa fa-shopping-cart"> Add to Cart</f>
                             </a>
                         </p>
                     </div>
@@ -330,7 +330,7 @@
                         <p class="button">
                             <a href="details.php" class="btn btn-default">View Details</a>
                             <a href="details.php" class="btn btn-primary">
-                                <f class="fa fa-shopping-cart">Add to Cart</f>
+                                <f class="fa fa-shopping-cart"> Add to Cart</f>
                             </a>
                         </p>
                     </div>
@@ -352,7 +352,7 @@
                         <p class="button">
                             <a href="details.php" class="btn btn-default">View Details</a>
                             <a href="details.php" class="btn btn-primary">
-                                <f class="fa fa-shopping-cart">Add to Cart</f>
+                                <f class="fa fa-shopping-cart"> Add to Cart</f>
                             </a>
                         </p>
                     </div>
@@ -374,7 +374,7 @@
                         <p class="button">
                             <a href="details.php" class="btn btn-default">View Details</a>
                             <a href="details.php" class="btn btn-primary">
-                                <f class="fa fa-shopping-cart">Add to Cart</f>
+                                <f class="fa fa-shopping-cart"> Add to Cart</f>
                             </a>
                         </p>
                     </div>
@@ -395,7 +395,7 @@
                         <p class="button">
                             <a href="details.php" class="btn btn-default">View Details</a>
                             <a href="details.php" class="btn btn-primary">
-                                <f class="fa fa-shopping-cart">Add to Cart</f>
+                                <f class="fa fa-shopping-cart"> Add to Cart</f>
                             </a>
                         </p>
                     </div>
