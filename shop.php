@@ -99,6 +99,174 @@
             </div>
         </div>
     </div>
+    <div id="content">
+        <div class="container">
+            <div class="col-md-12">
+                <ul class="breadcrumb">
+                    <li><a href="index.php">Home</a></li>
+                    <li>Shop</li>
+                </ul>
+            </div>
+            <div class="col-md-3">
+                <?php
+                include 'includes/sidebar.php';
+                ?>
+            </div>
+            <div class="col-md-9">
+                <div class="box">
+                    <h1>Shop</h1>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                        Mollitia accusamus, necessitatibus rerum ratione illo modi
+                        tempora excepturi corporis sint ipsum!
+                    </p>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4 col-sm-6 center-responsive">
+                        <div class="product">
+                            <a href="details.php">
+                                <img class="img-responsive" src="images/product_images/dress5.jpg" alt="">
+                            </a>
+                            <div class="text">
+                                <h3>
+                                    <a href="details.php">
+                                        My-Store Dress
+                                    </a>
+                                </h3>
+                                <p class="price">Ksh3000</p>
+                                <p class="button">
+                                    <a href="details.php" class="btn btn-default">View Details</a>
+                                    <a href="details.php" class="btn btn-primary">
+                                        <f class="fa fa-shopping-cart">Add to Cart</f>
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    <div class="col-md-4 col-sm-6 center-responsive">
+                        <div class="product">
+                            <a href="details.php">
+                                <img class="img-responsive" src="images/product_images/dress6.jpg" alt="">
+                            </a>
+                            <div class="text">
+                                <h3>
+                                    <a href="details.php">
+                                        My-Store Dress
+                                    </a>
+                                </h3>
+                                <p class="price">Ksh3000</p>
+                                <p class="button">
+                                    <a href="details.php" class="btn btn-default">View Details</a>
+                                    <a href="details.php" class="btn btn-primary">
+                                        <f class="fa fa-shopping-cart">Add to Cart</f>
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    <div class="col-md-4 col-sm-6 center-responsive">
+                        <div class="product">
+                            <a href="details.php">
+                                <img class="img-responsive" src="images/product_images/dress7.jpg" alt="">
+                            </a>
+                            <div class="text">
+                                <h3>
+                                    <a href="details.php">
+                                        My-Store Dress
+                                    </a>
+                                </h3>
+                                <p class="price">Ksh3000</p>
+                                <p class="button">
+                                    <a href="details.php" class="btn btn-default">View Details</a>
+                                    <a href="details.php" class="btn btn-primary">
+                                        <f class="fa fa-shopping-cart">Add to Cart</f>
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    <div class="col-md-4 col-sm-6 center-responsive">
+                        <div class="product">
+                            <a href="details.php">
+                                <img class="img-responsive" src="images/product_images/dress8.jpg" alt="">
+                            </a>
+                            <div class="text">
+                                <h3>
+                                    <a href="details.php">
+                                        My-Store Dress
+                                    </a>
+                                </h3>
+                                <p class="price">Ksh3000</p>
+                                <p class="button">
+                                    <a href="details.php" class="btn btn-default">View Details</a>
+                                    <a href="details.php" class="btn btn-primary">
+                                        <f class="fa fa-shopping-cart">Add to Cart</f>
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    <div class="col-md-4 col-sm-6 center-responsive">
+                        <div class="product">
+                            <a href="details.php">
+                                <img class="img-responsive" src="images/product_images/dress9.jpg" alt="">
+                            </a>
+                            <div class="text">
+                                <h3>
+                                    <a href="details.php">
+                                        My-Store Dress
+                                    </a>
+                                </h3>
+                                <p class="price">Ksh3000</p>
+                                <p class="button">
+                                    <a href="details.php" class="btn btn-default">View Details</a>
+                                    <a href="details.php" class="btn btn-primary">
+                                        <f class="fa fa-shopping-cart">Add to Cart</f>
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    <div class="col-md-4 col-sm-6 center-responsive">
+                        <div class="product">
+                            <a href="details.php">
+                                <img class="img-responsive" src="images/product_images/dress10.jpg" alt="">
+                            </a>
+                            <div class="text">
+                                <h3>
+                                    <a href="details.php">
+                                        My-Store Dress
+                                    </a>
+                                </h3>
+                                <p class="price">Ksh3000</p>
+                                <p class="button">
+                                    <a href="details.php" class="btn btn-default">View Details</a>
+                                    <a href="details.php" class="btn btn-primary">
+                                        <f class="fa fa-shopping-cart">Add to Cart</f>
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
     <?php
     include 'includes/footer.php';
     ?>
